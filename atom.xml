@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>QuerySelector</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2021-09-17T09:09:33.882Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>QuerySelector</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇</title>
+    <link href="/2021/09/10/%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>/2021/09/10/第一篇/</id>
+    <published>2021-09-10T04:48:28.000Z</published>
+    <updated>2021-09-17T09:09:33.882Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;这是标题&quot;&gt;&lt;a href=&quot;#这是标题&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/09/10/hello-world/"/>
+    <id>/2021/09/10/hello-world/</id>
+    <published>2021-09-09T16:15:57.237Z</published>
+    <updated>2021-09-09T16:15:57.238Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>js继承</title>
+    <link href="/2020/06/11/js%E7%BB%A7%E6%89%BF/"/>
+    <id>/2020/06/11/js继承/</id>
+    <published>2020-06-11T09:04:40.000Z</published>
+    <updated>2020-06-21T13:10:21.276Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;js继承&quot;&gt;&lt;a href=&quot;#js继承&quot; class=&quot;headerlink&quot; title=&quot;js继承&quot;&gt;&lt;/a&gt;js继承&lt;/h1&gt;&lt;h3 id=&quot;1-概念&quot;&gt;&lt;a href=&quot;#1-概念&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端面试题" scheme="/tags/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue中created和mounted的区别</title>
+    <link href="/2020/06/03/Vue%E4%B8%ADcreated%E5%92%8Cmounted%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+    <id>/2020/06/03/Vue中created和mounted的区别/</id>
+    <published>2020-06-03T08:43:31.000Z</published>
+    <updated>2020-06-21T13:10:21.258Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Vue中created和mounted的区别&quot;&gt;&lt;a href=&quot;#Vue中created和mounted的区别&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="面试题" scheme="/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MVC和MVVM</title>
+    <link href="/2020/06/02/MVC%E5%92%8CMVVM/"/>
+    <id>/2020/06/02/MVC和MVVM/</id>
+    <published>2020-06-02T01:30:20.000Z</published>
+    <updated>2020-06-21T13:10:21.251Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;MVC和MVVM&quot;&gt;&lt;a href=&quot;#MVC和MVVM&quot; class=&quot;headerlink&quot; title=&quot;MVC和MVVM&quot;&gt;&lt;/a&gt;MVC和MVVM&lt;/h2&gt;&lt;h4 id=&quot;详情：&quot;&gt;&lt;a href=&quot;#详情：&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="软件设计模式" scheme="/tags/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue路由传参</title>
+    <link href="/2020/05/27/vue%E8%B7%AF%E7%94%B1%E4%BC%A0%E5%8F%82/"/>
+    <id>/2020/05/27/vue路由传参/</id>
+    <published>2020-05-27T01:56:47.000Z</published>
+    <updated>2020-06-21T13:10:21.300Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;vue路由传参&quot;&gt;&lt;a href=&quot;#vue路由传参&quot; class=&quot;headerlink&quot; title=&quot;vue路由传参&quot;&gt;&lt;/a&gt;vue路由传参&lt;/h3&gt;&lt;p&gt;1.传过去的参数为一个对象&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;javascript&quot;&gt;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="vue" scheme="/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue组件通信全揭秘_共7章</title>
+    <link href="/2020/05/25/vue%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1%E5%85%A8%E6%8F%AD%E7%A7%98-%E5%85%B17%E7%AB%A0-%E6%8E%98%E9%87%91%E7%A4%BE%E5%8C%BA/"/>
+    <id>/2020/05/25/vue组件通信全揭秘-共7章-掘金社区/</id>
+    <published>2020-05-25T00:44:37.000Z</published>
+    <updated>2020-06-21T13:10:21.295Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;vue组件通信全揭秘-共7章&quot;&gt;&lt;a href=&quot;#vue组件通信全揭秘-共7章&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="vue" scheme="/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>let和var的区别</title>
+    <link href="/2020/05/02/let%E5%92%8Cvar%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+    <id>/2020/05/02/let和var的区别/</id>
+    <published>2020-05-02T07:15:00.000Z</published>
+    <updated>2020-06-21T13:10:21.278Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;let和var的区别：&quot;&gt;&lt;a href=&quot;#let和var的区别：&quot; class=&quot;headerlink&quot; title=&quot;let和var的区别：&quot;&gt;&lt;/a&gt;let和var的区别：&lt;/h2&gt;&lt;h4 id=&quot;1-关于重复定义：&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端面试题" scheme="/tags/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue面试题13道</title>
+    <link href="/2020/04/27/Vue%E9%9D%A2%E8%AF%95%E9%A2%9813%E9%81%93/"/>
+    <id>/2020/04/27/Vue面试题13道/</id>
+    <published>2020-04-27T06:36:39.000Z</published>
+    <updated>2020-06-21T13:10:21.261Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre&gt;&lt;code&gt;1.Vue2.0框架中哪个指令是实现列表渲染的？
+A. v-show  B. v-repeat  C. v-while  D. v-for
+正确答案：D
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;2.Vue框架中哪个指令是实现数据双向绑定的？
+A.
+        
+      
+    
+    </summary>
+    
+    
+      <category term="vue" scheme="/tags/vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>window10专业版命令行快速激活教程</title>
+    <link href="/2020/04/25/window10%E4%B8%93%E4%B8%9A%E7%89%88%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%BF%AB%E9%80%9F%E6%BF%80%E6%B4%BB%E6%95%99%E7%A8%8B/"/>
+    <id>/2020/04/25/window10专业版命令行快速激活教程/</id>
+    <published>2020-04-25T12:56:56.000Z</published>
+    <updated>2020-06-21T13:10:21.322Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;window10专业版命令行快速激活教程&quot;&gt;&lt;a href=&quot;#window10专业版命令行快速激活教程&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="window10" scheme="/tags/window10/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vant-weapp框架</title>
+    <link href="/2020/04/21/vant_weapp(%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8FUI%E6%A1%86%E6%9E%B6)/"/>
+    <id>/2020/04/21/vant_weapp(微信小程序UI框架)/</id>
+    <published>2020-04-21T01:48:05.000Z</published>
+    <updated>2020-06-21T13:10:21.282Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;h3 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h3&gt;&lt;p&gt;Vant Weapp 是移动端 Vue 组件库 &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="微信小程序UI框架" scheme="/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8FUI%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>webpack优化方案</title>
+    <link href="/2020/02/25/webpack%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88/"/>
+    <id>/2020/02/25/webpack优化方案/</id>
+    <published>2020-02-25T00:25:02.000Z</published>
+    <updated>2020-06-21T13:10:21.311Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;webpack 是一个现代 JavaScript 应用程序最为火热的静态模块打包器，当 webpack 处理应用程序时，会递归构建一个依赖关系图，其中包含应用程序需要的每个模块，然后将这些模块打包成一个或多个 bundle
+        
+      
+    
+    </summary>
+    
+    
+      <category term="webpack" scheme="/tags/webpack/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Web Worker的原理</title>
+    <link href="/2019/11/11/WebWorker%E5%A4%84%E7%90%86%E5%A4%A7%E9%87%8F%E8%AE%A1%E7%AE%97js%E8%84%9A%E6%9C%AC/"/>
+    <id>/2019/11/11/WebWorker处理大量计算js脚本/</id>
+    <published>2019-11-11T09:27:25.000Z</published>
+    <updated>2020-06-21T13:10:21.262Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Web-Worker&quot;&gt;&lt;a href=&quot;#Web-Worker&quot; class=&quot;headerlink&quot; title=&quot;Web Worker&quot;&gt;&lt;/a&gt;Web Worker&lt;/h1&gt;&lt;p&gt;web worker 是运行在后台的
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Web Worker" scheme="/tags/Web-Worker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>websocket基础</title>
+    <link href="/2019/11/11/websocket%E9%80%9A%E4%BF%A1%E5%9F%BA%E7%A1%80/"/>
+    <id>/2019/11/11/websocket通信基础/</id>
+    <published>2019-11-11T09:15:25.000Z</published>
+    <updated>2020-06-21T13:10:21.316Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;websocket基础&quot;&gt;&lt;a href=&quot;#websocket基础&quot; class=&quot;headerlink&quot; title=&quot;websocket基础&quot;&gt;&lt;/a&gt;websocket基础&lt;/h1&gt;&lt;h5 id=&quot;websocket-通信协议&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="websocket" scheme="/tags/websocket/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OOP思想(面向对象思想)</title>
+    <link href="/2019/10/18/OOP%E6%80%9D%E6%83%B3-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%9D%E6%83%B3/"/>
+    <id>/2019/10/18/OOP思想-面向对象思想/</id>
+    <published>2019-10-18T06:38:53.000Z</published>
+    <updated>2020-06-21T13:10:21.253Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;OOP思想应该怎样来理解？&quot;&gt;&lt;a href=&quot;#OOP思想应该怎样来理解？&quot; class=&quot;headerlink&quot; title=&quot;OOP思想应该怎样来理解？&quot;&gt;&lt;/a&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="OOP面向对象思想" scheme="/tags/OOP%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%9D%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Theme-Sakura</title>
+    <link href="/2018/12/12/Hexo-Theme-Sakura/"/>
+    <id>/2018/12/12/Hexo-Theme-Sakura/</id>
+    <published>2018-12-12T14:16:01.000Z</published>
+    <updated>2021-09-17T09:09:33.940Z</updated>
+    
+    <summary type="html">
+    
+      hexo-sakura主题使用教程
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="/tags/web/"/>
+    
+      <category term="悦读" scheme="/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js中的跨域及其解决的办法</title>
+    <link href="/2018/12/05/js%E4%B8%AD%E7%9A%84%E8%B7%A8%E5%9F%9F%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/"/>
+    <id>/2018/12/05/js中的跨域问题解决/</id>
+    <published>2018-12-05T10:40:25.000Z</published>
+    <updated>2020-06-21T13:10:21.274Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;js中的跨域及其解决的办法&quot;&gt;&lt;a href=&quot;#js中的跨域及其解决的办法&quot; class=&quot;headerlink&quot; title=&quot;js中的跨域及其解决的办法&quot;&gt;&lt;/a&gt;js中的跨域及其解决的办法&lt;/h1&gt;&lt;h3 id=&quot;一、什么是跨域？&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="javascript" scheme="/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Photoshop软件使用基础</title>
+    <link href="/2018/10/22/Photoshop%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E5%9F%BA%E7%A1%80/"/>
+    <id>/2018/10/22/Photoshop软件使用基础/</id>
+    <published>2018-10-22T02:40:55.000Z</published>
+    <updated>2020-06-21T13:10:21.256Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Photoshop软件使用基础&quot;&gt;&lt;a href=&quot;#Photoshop软件使用基础&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="photoshop" scheme="/tags/photoshop/"/>
+    
+  </entry>
+  
+</feed>
